@@ -4,4 +4,5 @@
 
 # Node Modules
 node_modules/
-npm-debug.log
+module/foundry.js
+foundry.js
